@@ -12,6 +12,6 @@ public class Ex2_1 {
 		System.out.println(5-3); //–ƒ¼À
 		System.out.println(5*3); //°ö¼À
 		System.out.println(5/3); //³ª´°¼À ++
-		//¼öÁ¤ Áß...
+		//¼öÁ¤ Áß....
 	}
 }
